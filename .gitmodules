@@ -1,0 +1,12 @@
+[submodule "services/xizmat.uz-admin-dashboard"]
+	path = services/xizmat.uz-admin-dashboard
+	url = https://github.com/BokhodirUrinboev/xizmat.uz-admin-dashboard
+[submodule "services/xizmat.uz-Backend"]
+	path = services/xizmat.uz-Backend
+	url = https://github.com/BokhodirUrinboev/xizmat.uz-Backend
+[submodule "services/xizmat.uz-mobile"]
+	path = services/xizmat.uz-mobile
+	url = https://github.com/BokhodirUrinboev/xizmat.uz-mobile
+[submodule "services/xizmat.uz-telegramBot"]
+	path = services/xizmat.uz-telegramBot
+	url = https://github.com/BokhodirUrinboev/xizmat.uz-telegramBot
