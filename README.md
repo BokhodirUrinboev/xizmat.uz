@@ -4,6 +4,8 @@
 ### We Make People's life easier 🙃🙃
 
 ## Inside of Services folder you will see repo for main projects 
+
+# Notice when you enter to other repos inside of service checkout to master branhc please !!!!
 ```
 1. Beckend Graphql Api with Hasura (Beckend Plus and Minio).
 2. Web Dashboard For Moderators Made with React.
